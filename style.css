@@ -64,7 +64,7 @@ header {
 }
 
 .head {
-    font-size: 6.25rem; /* 100px, balancing your 200px with responsiveness */
+    font-size: 6.25rem; 
     color: #5ebec4;
     margin: 0;
 }
@@ -145,7 +145,7 @@ header {
 
 .video-wrapper {
     width: 100%;
-    max-width: 35rem; /* 560px, YouTube default */
+    max-width: 35rem; 
     aspect-ratio: 16 / 9;
     margin-bottom: 1rem;
 }
